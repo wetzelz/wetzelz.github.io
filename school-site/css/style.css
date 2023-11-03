@@ -74,8 +74,12 @@ header, footer {
 
 /* NOTE: While you will be using some of the same CSS properties, the VALUES 
    may need to be different in order to style the page correctly. */
-   
-   @font-face {
+
+
+
+/* Imported Typfaces */
+
+@font-face {
     font-family: montserrat;
     src: url(/fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
@@ -211,8 +215,3 @@ footer {
     text-align: center;
 
 }
-
-
-
-
-
